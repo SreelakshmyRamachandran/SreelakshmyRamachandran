@@ -1,6 +1,6 @@
 # Sreelakshmy Ramachandran
 
-![Banner Image](https://images.app.goo.gl/BYPM1qfBDKC9dkGF6)
+![Banner Image](https://media.licdn.com/dms/image/D5612AQHVmEivjr2hJg/article-cover_image-shrink_720_1280/0/1691769538330?e=1718841600&v=beta&t=Lg72YvFDCcgw14SIs3HEpVnpSpfDcOisMa9g9qPo9Jc)
 
 ## Ilford, London IG 3 8 FA | 07436374656 | sreelakshmyrnair98@gmail.com
 
