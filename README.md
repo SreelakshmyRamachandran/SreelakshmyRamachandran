@@ -1,6 +1,6 @@
 # Sreelakshmy Ramachandran
 
-![Banner Image]("C:\Users\sreel\OneDrive\Desktop\New folder (7)")
+![Banner Image](https://images.app.goo.gl/44jry1JqNnGbYG458)
 
 ## Ilford, London IG 3 8 FA | 07436374656 | sreelakshmyrnair98@gmail.com
 
