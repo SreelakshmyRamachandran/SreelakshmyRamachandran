@@ -1,5 +1,7 @@
 # Sreelakshmy Ramachandran
-![Banner Image]("C:\Users\sreel\OneDrive\Desktop\data science banner image.png")
+
+![Banner Image]("C:\\Users\\sreel\\OneDrive\\Desktop\\data science banner image.png")
+
 ## Ilford, London IG 3 8 FA | 07436374656 | sreelakshmyrnair98@gmail.com
 
 LinkedIn: [linkedin.com/in/sreelakshmy-ramachandran-4382b729a](https://www.linkedin.com/in/sreelakshmy-ramachandran-4382b729a)
@@ -30,9 +32,6 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
   - Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
   - Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
 
----
-
-## Skills
 ...
 ## Skills
 - Analytical Problem Solving
