@@ -65,7 +65,7 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 ## Projects
 1. **HR Analytics Dashboard**
    - [GitHub: HR Analytics Dashboard](https://github.com/SreelakshmyRamachandran/HR-Analytics-Dashboard)
-3.  **Credit Card Fraud Detection**
+2.  **Credit Card Fraud Detection**
    - [GitHub: Credit Card Fraud Detection](https://github.com/SreelakshmyRamachandran/Credit-Card-fraud-detection)
 3. **Customer Segmentation Using K-Means Clustering**
    - [GitHub: Customer Segmentation](https://github.com/SreelakshmyRamachandran/Customer-segmentation-k-means)
