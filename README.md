@@ -67,12 +67,12 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
    - [GitHub: HR Analytics Dashboard](https://github.com/SreelakshmyRamachandran/HR-Analytics-Dashboard)
 2.  **Credit Card Fraud Detection**
    - [GitHub: Credit Card Fraud Detection](https://github.com/SreelakshmyRamachandran/Credit-Card-fraud-detection)
-3. **Customer Segmentation Using K-Means Clustering**
+4. **Customer Segmentation Using K-Means Clustering**
    - [GitHub: Customer Segmentation](https://github.com/SreelakshmyRamachandran/Customer-segmentation-k-means)
-4. **Fake News Detection Using NLP**
+5. **Fake News Detection Using NLP**
    - [GitHub: Fake News Detection](https://github.com/SreelakshmyRamachandran/fake-news-detection-nlp.git)
-5. **Crime Hotspot Analysis Using Spatial Data Analysis And Machine Learning**
-6. **Cervical Cancer Prediction**
+6. **Crime Hotspot Analysis Using Spatial Data Analysis And Machine Learning**
+7. **Cervical Cancer Prediction**
 
 ## Non-Technical Experience
 **Shift Manager** - Popeyes Lousiana Kitchen, Romford (25/10/2022 - Present)
