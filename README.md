@@ -24,7 +24,17 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 
 ---
 
-## Internships
+## Technical Experience
+
+- **HyperionDev Data Science Bootcamp** - June 2024
+  - Achieved an overall grade average of 89% for the bootcamp tasks
+  - Applied Python, probability, statistics, data science libraries, and fundamental machine learning concepts.
+  -Gained proficiency in data preprocessing, data cleaning, feature engineering, and handling large datasets to ensure robust model performance.
+  - Developed and implemented machine learning models, including supervised and unsupervised learning algorithms.
+  - Utilized data visualization libraries such as Matplotlib and Seaborn to effectively communicate data insights.
+  - Gained experience in Natural Language Processing (NLP) techniques, including text preprocessing, TF-IDF vectorization, and using libraries such as SpaCy.
+  - Learned to use version control systems like Git, demonstrating the ability to manage and collaborate on multiple projects.
+  - Gained experience with SQL for database management and querying, enhancing data manipulation and retrieval skills
 
 - **BCG Data Science Job Simulation on Forage** - March 2024
   - Completed a customer churn analysis simulation for Power Co Analytics, demonstrating advanced data analytics skills, identifying essential client data, and outlining a strategic investigation approach.
@@ -61,7 +71,7 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 4. **Crime Hotspot Analysis Using Spatial Data Analysis And Machine Learning**
 5. **Cervical Cancer Prediction**
 
-## Experience
+## Non-Technical Experience
 **Shift Manager** - Popeyes Lousiana Kitchen, Romford (25/10/2022 - Present)
 - Manage staff and assist in running the store, focusing on FOH and hospitality.
 - Train staff for customer interaction and hospitality.
