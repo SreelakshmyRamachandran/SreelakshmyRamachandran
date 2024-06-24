@@ -60,6 +60,7 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 
 ## Certifications
 - IBM Data Science Professional Certification
+- Microsoft PowerBI Certification
 
 ## Projects
 1. **Credit Card Fraud Detection**
@@ -73,9 +74,13 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 
 ## Non-Technical Experience
 **Shift Manager** - Popeyes Lousiana Kitchen, Romford (25/10/2022 - Present)
-- Manage staff and assist in running the store, focusing on FOH and hospitality.
-- Train staff for customer interaction and hospitality.
+- Managed a team of 50 staff members and assisted in running the store, showcasing collaboration and communication skills.
+- Trained 20+ staff members on customer interaction and hospitality, demonstrating attention to detail in maintaining service standards.
+- Promoted from team member to shift manager within 6 months, awarded as Best Employee,
+- Demonstrated ability to manage multiple tasks efficiently.
   
 **Bussiness Development Executive** - Inmakes Infotech pvt ltd, India (1/11/2021 - 30/5/2023)
-- Delivered target-oriented results ahead of deadlines.
-- Managed diverse clients and worked as an academic consultant.
+- Achieved 120% of sales targets within the first 6 months, highlighting attention to detail and strong problem-solving skills.
+- Worked directly with 20+ clients per day to analyse their needs and provide tailored solutions, showcasing excellent communication skills.
+- Gained proficiency in various software, programming languages, and frameworks, reflecting adaptability and collaboration
+- Received a certificate of Excellence.
