@@ -63,7 +63,7 @@ Enthusiastic and driven Master's Graduate specializing in Data Science.
 - Microsoft PowerBI Certification
 
 ## Projects
-1**HR Analytics Dashboard**
+1. **HR Analytics Dashboard**
    - [GitHub: HR Analytics Dashboard](https://github.com/SreelakshmyRamachandran/HR-Analytics-Dashboard)
 2.  **Credit Card Fraud Detection**
    - [GitHub: Credit Card Fraud Detection](https://github.com/SreelakshmyRamachandran/Credit-Card-fraud-detection)
